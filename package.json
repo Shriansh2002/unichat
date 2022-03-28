@@ -1,7 +1,6 @@
 {
   "name": "unichat",
   "version": "0.1.0",
-  "homepage": "https://shrianshcodingtutorials.github.io/unichat",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
